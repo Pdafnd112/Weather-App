@@ -32,3 +32,20 @@
   font-family: "Vazirmatn-Medium";
   src: url("../font/Vazirmatn-Medium.woff2");
 }
+/* IRANSansX-Medium */
+@font-face {
+  font-family: "IRANSansX-Medium";
+  src: url("../font/IRANSansX-Medium.eot");
+}
+@font-face {
+  font-family: "IRANSansX-Medium";
+  src: url("../font/IRANSansX-Medium.ttf");
+}
+@font-face {
+  font-family: "IRANSansX-Medium";
+  src: url("../font/IRANSansX-Medium.woff");
+}
+@font-face {
+  font-family: "IRANSansX-Medium";
+  src: url("../font/IRANSansX-Medium.woff2");
+}
